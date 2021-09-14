@@ -1,0 +1,6 @@
+venv/
+__pycache__
+man/
+excellent.py
+woman.txt
+woman.xls
