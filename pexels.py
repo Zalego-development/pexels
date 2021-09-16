@@ -3,10 +3,8 @@ import json
 from requests.structures import CaseInsensitiveDict
 
 def pexels():
-    key_words = [
-        'man', 'woman','old man','old woman','baby girl','baby boy','teenage girl','teenage boy'
-        ]
-    i = 6
+    key_words = ['indian man', 'player']
+    i = 0
     page = 1
     while True:
         count = 1
